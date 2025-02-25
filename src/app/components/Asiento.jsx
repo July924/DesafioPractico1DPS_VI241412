@@ -7,7 +7,8 @@ export default function Asiento({ index, ocupado }) {
 
   return (
     <button
-      className={`btn m-1 ${ocupado ? "btn-dark" : "btn-success"}`}
+      className={`btn m-1 ${    
+        ocupado ? "btn-dark" : "btn-success"}`}
       style={{ width: "40px", height: "40px" }}
       onClick={() => dispatch(seleccionarAsiento(index))}
     >
