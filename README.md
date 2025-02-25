@@ -1,3 +1,7 @@
+Este proyecto esta diseño para la simulación de compra o seleccion de boletos en un cine, se implementa React con Next.js para su debido fincionamiento, asi como tambien hooks de estado como useState para manejar el estado de ciertos componentes y redux para poder manipular los cambios de manera dinamica y estable de los elementos como la seleccion de asiento o la muestra en tiempo real del total de la compra
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -32,5 +36,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
